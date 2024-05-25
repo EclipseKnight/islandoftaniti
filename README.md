@@ -1,6 +1,9 @@
-The is the Island of Taniti website for the WGU course C856.
+This is Island of Taniti website for the User Experience Design at Western Governors University (WGU) C856
 
-The following website is build with js, html, css, and uses Bootstrap.
-
+The website is built with:
+- Javascript
+- html
+- CSS
+- Bootstrap
 
 Created by Jon Paquin
